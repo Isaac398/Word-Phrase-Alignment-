@@ -1,2 +1,2 @@
 # Word-Phrase-Alignment-
-Based on Parsing of sentences in the Domin of Natural Language Processing.
+Based on Parsing of sentences.
